@@ -1,6 +1,6 @@
 cask "rhttp" do
   version "0.1.0"
-  sha256 "c954ffd6786b044149c0934746d2448d408ca318527b51ac8770d8af08911704"
+  sha256 "d7132d81f42daed2a74c0a1d8ef8d3772526e12311add0c9386019f887a95615"
 
   url "https://github.com/michalmilek/rhttp/releases/download/v#{version}/rhttp-desktop-macos-aarch64.app.zip"
   name "rhttp"
